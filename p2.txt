@@ -1,0 +1,1 @@
+understanding the pull operaition in git
